@@ -1,0 +1,14 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <CategoryNames>
+      <Category>No Data</Category>
+      <Category>High enhanced regrowth</Category>
+      <Category>Low enhanced regrowth</Category>
+      <Category>Unburned</Category>
+      <Category>Low Severity</Category>
+      <Category>Moderate-low Severity</Category>
+      <Category>Moderate-high Severity</Category>
+      <Category>High Severity</Category>
+    </CategoryNames>
+  </PAMRasterBand>
+</PAMDataset>

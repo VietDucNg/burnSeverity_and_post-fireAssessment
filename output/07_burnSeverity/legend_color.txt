@@ -1,0 +1,8 @@
+No Data		#FFFFFF
+High enhanced regrowth		#556b2f
+Low enhanced regrowth		#6e8b3d
+Unburned		#32CD32
+Low Severity		#EEEE00
+Moderate-low Severity		#ee9a00
+Moderate-high Severity		#FF0000
+High Severity		#800080
